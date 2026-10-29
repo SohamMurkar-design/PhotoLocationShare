@@ -34,10 +34,8 @@ Currently under development. Features and functionality are subject to testing a
 ## App Screenshots
 
 ### Home Screen
-![Photo Location Share Home Screen](<img width="1278" height="1230" alt="AppImages" src="https://github.com/user-attachments/assets/5fff38d0-b66b-4682-93cb-b66cbcfd7c92" />
 
-)
-
+![Photo Location Share App](AppImages.png)
 
 ## Author
 
