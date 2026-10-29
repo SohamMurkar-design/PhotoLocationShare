@@ -30,6 +30,13 @@ Currently under development. Features and functionality are subject to testing a
 4. Connect an Android device or start an emulator.
 5. Build and run the application.
 
+
+## App Screenshots
+
+### Home Screen
+![Photo Location Share Home Screen](photo-location-share.png)
+
+
 ## Author
 
 Soham Murkar
